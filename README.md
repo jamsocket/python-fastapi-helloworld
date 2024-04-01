@@ -27,4 +27,4 @@ You should see a response like this:
 { "res": "Hello World" }
 ```
 
-Or spawn and connect with Jamsocket's javascript client library, `@jamsocket/javascript`.
+Or spawn and connect with Jamsocket's javascript client library, `@jamsocket/server`.
